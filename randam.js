@@ -1,5 +1,5 @@
 function getRandomInt(max){
   return Math.floor(Math.random() * max);
 }
-var links = ['https://forms.gle/UENUfwWG3qA6AmKn8'];
+var links = ['https://forms.gle/UENUfwWG3qA6AmKn8','https://forms.gle/BcMwXfN6jkXkPh438','https://forms.gle/z6ikhAw14JwdYYoC9','https://forms.gle/Fkw8BjZALs4rnS6Y6','https://forms.gle/bnKWW7EmEByQW3Z19','https://forms.gle/5gdatSniSZakv4py8','https://forms.gle/52933bwRdNGpbfCv8','https://forms.gle/PKSkc3xKdwTMUjzv5','https://forms.gle/GuTowcTbLjMmmMMN6','https://forms.gle/2myATDz3cSPEEfDaA','https://forms.gle/PYRAkVr2exDV5HdD7','https://forms.gle/X9CnYFdNNfjT1iUp7','https://forms.gle/fEfJEvZiqZQWzdYy7','https://forms.gle/68gCo3qhtgYnU5vs9','https://forms.gle/W6sAj4ETSLH86RUw7','https://forms.gle/Y2ZFLCFs6oSqeMkt9','https://forms.gle/vdzFG3wyuL86jUxPA','https://forms.gle/S6hQ4cSdrNUfGQke6','https://forms.gle/SyhkFto98udnhUW26','https://forms.gle/mNdvY9myeADTejtRA','https://forms.gle/Lvsmr4Cz9R4tuERC9','https://forms.gle/DW51McCHhsaiY2rj6','https://forms.gle/x4A9UCnwPRT9Li5v5','https://forms.gle/PVGqH8T7WV222L5Z8'];
 window.location.href = links[getRandomInt(links.length)];
